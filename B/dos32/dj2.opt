@@ -1,0 +1,5 @@
+-Wp,-lang-c89
+-W
+-pedantic
+-fomit-frame-pointer
+-fno-strength-reduce

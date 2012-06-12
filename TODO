@@ -1,0 +1,17 @@
+=======================================================================
+TODO list for the UCL data compression library
+=======================================================================
+
+
+Planned for the next versions:
+------------------------------
+
+- add more documentation
+
+- integrate the assembler decompressors into Autoconf
+
+- integrate the assembler decompressors into the build scripts
+
+- add an include file <ucl/ucl_asm.h> that has prototypes for all
+  assembler functions
+
